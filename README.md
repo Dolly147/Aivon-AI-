@@ -92,20 +92,7 @@ VITE_GEMINI_API_KEY=your_api_key_here
 npm run dev
 ```
 
----
 
-## ⚠️ Note
-
-* This project uses a **frontend API call**, so the API key may be exposed in the browser.
-* For production-grade applications, it is recommended to move API calls to a backend.
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here if you want — optional but boosts impact)*
-
----
 
 ## 💡 Future Improvements
 
